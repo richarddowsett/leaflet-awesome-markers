@@ -1,0 +1,26 @@
+{
+  "name": "leaflet-awesome-markers",
+  "version": "1.0.0",
+  "description": "awesome markers for leaflet. Taken from https://github.com/lvoogdt/Leaflet.awesome-markers but npm'd",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richarddowsett/leaflet-awesome-markers.git"
+  },
+  "keywords": [
+    "leaflet",
+    "markers"
+  ],
+  "author": "richarddowsett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richarddowsett/leaflet-awesome-markers/issues"
+  },
+  "homepage": "https://github.com/richarddowsett/leaflet-awesome-markers#readme"
+}

@@ -16,6 +16,13 @@ Version 1.0 of Leaflet.awesome-markers is tested with:
 
 Use version 2.0 for newer versions of bootstrap and font-awesome!
 
+Version 1.0 of Leaflet.awesome-markers is tested with:
+- Bootstrap 2
+- Font Awesome 3.0
+- Leaflet 0.5
+
+Use version 2.0 for newer versions of bootstrap and font-awesome!
+
 ## Screenshots
 ![AwesomeMarkers screenshot](https://raw.github.com/lvoogdt/Leaflet.awesome-markers/master/screenshots/screenshot-soft.png "Screenshot of AwesomeMarkers")
 
